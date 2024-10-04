@@ -1,0 +1,16 @@
+[master 4703a10] files made executable
+ 14 files changed, 1 insertion(+)
+ create mode 100755 0x01-ES6_promise/0-promise.js
+ create mode 100755 0x01-ES6_promise/1-promise.js
+ create mode 100755 0x01-ES6_promise/2-then.js
+ create mode 100755 0x01-ES6_promise/3-all.js
+ create mode 100755 0x01-ES6_promise/4-user-promise.js
+ create mode 100755 0x01-ES6_promise/5-photo-reject.js
+ create mode 100755 0x01-ES6_promise/6-final-user.js
+ create mode 100755 0x01-ES6_promise/7-load_balancer.js
+ create mode 100755 0x01-ES6_promise/8-try.js
+ create mode 100755 0x01-ES6_promise/9-try.js
+ create mode 100755 0x01-ES6_promise/README.mdf
+ create mode 100755 0x01-ES6_promise/babel.config.js
+ create mode 100755 0x01-ES6_promise/main.js
+ create mode 100755 0x01-ES6_promise/utils.js
